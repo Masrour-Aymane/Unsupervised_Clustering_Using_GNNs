@@ -57,6 +57,7 @@ This notebook reproduces experiments from the paper *"Graph Clustering with Grap
 ```
 ├── DMoN_analysis.ipynb # Main notebook 
 ├── synthetic_data/ # Auto-generated synthetic datasets 
-├── real_data/ # Place real datasets here (Cora, Citeseer, Pubmed) 
-└── figures/ # Output plots (e.g., covariance.png)
+├── real_data/ # Place real datasets here (Cora, Citeseer, Pubmed)
+├── figures/ # Output plots (e.g., covariance.png)
+└── Project report # pdf file
 ```
